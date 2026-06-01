@@ -1,0 +1,5 @@
+{
+  "defaultProvider": "anthropic",
+  "quietStartup": false,
+  "name": "lp-workspace-profile"
+}
